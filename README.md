@@ -1,1 +1,6 @@
-![Metrics](https://metrics.lecoq.io/dnnr1?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable=false&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=America%2FSao_Paulo&config.twemoji=true&config.octicon=true)
+# Hey There! 👋
+**I'm Daniel** — I'm a Full Stack Developer from Brazil who enjoys building web applications, learning new technologies, and working on personal projects in my free time.
+
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,materialui)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=nodejs,bun,express,nest,prisma,jest,rabbitmq,mysql,postgres,mongodb,docker,kubernetes,aws,nginx)](https://skillicons.dev)<br/>
