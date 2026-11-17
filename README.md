@@ -12,7 +12,6 @@ Desenvolvedor de Software Full Stack, apaixonado por arquitetura de software e e
 <!-- Linguagens -->
 <img title="JavaScript" alt="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" style="margin:6px"/>
 <img title="TypeScript" alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" style="margin:6px"/>
-<img title="Python" alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" style="margin:6px"/>
 
 <!-- Backend -->
 <img title="Node.js" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" style="margin:6px"/>
@@ -46,7 +45,6 @@ Desenvolvedor de Software Full Stack, apaixonado por arquitetura de software e e
 <!-- Versionamento -->
 <img title="Git" alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" style="margin:6px"/>
 <img title="GitLab" alt="GitLab" src="https://cdn.simpleicons.org/gitlab/FC6D26" width="36" height="36" style="margin:6px"/>
-<img title="GitHub" alt="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" style="margin:6px"/>
 </p>
 
 **E-mail:** [dnnr.dev@gmail.com](mailto:dnnr.dev@gmail.com)
